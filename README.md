@@ -1,6 +1,6 @@
 # Machine Learning Board Game Analysis and Prediction 
 
-This repository contains a machine learning analysis of a dataset from Ludii board games [Ludii.games](https://ludii.games/) general game system, focusing on predicting board game attributes. 
+This repository contains Machine Learning and Exploratory Data Analysis (EDA) of a dataset from Ludii board games [Ludii.games](https://ludii.games/) general game system, focusing on predicting board game attributes. 
 The project includes regression and classification tasks, along with preprocessing, feature engineering, and evaluation.
 
 ## Objectives
